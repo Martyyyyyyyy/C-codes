@@ -1,24 +1,29 @@
 ﻿using System;
 
-namespace dmlab2
+namespace lab3
 {
     class Program
     {
-        static int bound = 30;
+        static int bound = 20;
 
 
         static int Main(string[] args)
         {
-
-            int counter = 0;
-            for (int i = 0; i < 10; i++)
+            int counter = 0;    
+            var rand = new Random();
+            for (int i = 0; i < 20; i++)
             {
-                for (int j = 0; j < 10; j++)
+                counter++;
+                Console.WriteLine($"{counter,5}:{rand.Next(100, 1000)}");
+            }
+
+            for (int i = 5; i < 10; i++)
+            {
+                for (int j = 3; j < 7; j++)
                 {
-                    for (int k = 0; k < 10; k++)
+                    for (int k = 0; k < 6; k++)
                     {
                         counter++;
-                        Console.WriteLine($"{counter,5}: {i} {j} {k}");
                         if (counter == bound)
                             return 0;
 
