@@ -1,0 +1,24 @@
+
+The Fire System is turned on
+18:59:40
+
+The Lighting is turned on
+18:59:40
+
+The Photo is taken
+18:59:40
+
+The Fire System is turned off
+18:59:42
+
+The Lighting is turned off
+18:59:42
+
+The Lighting is turned on
+18:59:42
+
+The Photo is taken
+18:59:42
+
+The Lighting is turned off
+18:59:42
