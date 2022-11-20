@@ -1,0 +1,15 @@
+D:\Programming\c-codes\C#\graph-theory\graph-theory\bin\Debug\net6.0\graph-theory.exe
+D:\Programming\c-codes\C#\graph-theory\graph-theory\bin\Debug\net6.0\graph-theory.deps.json
+D:\Programming\c-codes\C#\graph-theory\graph-theory\bin\Debug\net6.0\graph-theory.runtimeconfig.json
+D:\Programming\c-codes\C#\graph-theory\graph-theory\bin\Debug\net6.0\graph-theory.dll
+D:\Programming\c-codes\C#\graph-theory\graph-theory\bin\Debug\net6.0\graph-theory.pdb
+D:\Programming\c-codes\C#\graph-theory\graph-theory\obj\Debug\net6.0\graph-theory.csproj.AssemblyReference.cache
+D:\Programming\c-codes\C#\graph-theory\graph-theory\obj\Debug\net6.0\graph-theory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\c-codes\C#\graph-theory\graph-theory\obj\Debug\net6.0\graph-theory.AssemblyInfoInputs.cache
+D:\Programming\c-codes\C#\graph-theory\graph-theory\obj\Debug\net6.0\graph-theory.AssemblyInfo.cs
+D:\Programming\c-codes\C#\graph-theory\graph-theory\obj\Debug\net6.0\graph-theory.csproj.CoreCompileInputs.cache
+D:\Programming\c-codes\C#\graph-theory\graph-theory\obj\Debug\net6.0\graph-theory.dll
+D:\Programming\c-codes\C#\graph-theory\graph-theory\obj\Debug\net6.0\refint\graph-theory.dll
+D:\Programming\c-codes\C#\graph-theory\graph-theory\obj\Debug\net6.0\graph-theory.pdb
+D:\Programming\c-codes\C#\graph-theory\graph-theory\obj\Debug\net6.0\graph-theory.genruntimeconfig.cache
+D:\Programming\c-codes\C#\graph-theory\graph-theory\obj\Debug\net6.0\ref\graph-theory.dll
