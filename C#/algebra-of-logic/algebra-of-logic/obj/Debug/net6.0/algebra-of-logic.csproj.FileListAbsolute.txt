@@ -1,0 +1,15 @@
+D:\Programming\c-codes\C#\algebra-of-logic\algebra-of-logic\bin\Debug\net6.0\algebra-of-logic.exe
+D:\Programming\c-codes\C#\algebra-of-logic\algebra-of-logic\bin\Debug\net6.0\algebra-of-logic.deps.json
+D:\Programming\c-codes\C#\algebra-of-logic\algebra-of-logic\bin\Debug\net6.0\algebra-of-logic.runtimeconfig.json
+D:\Programming\c-codes\C#\algebra-of-logic\algebra-of-logic\bin\Debug\net6.0\algebra-of-logic.dll
+D:\Programming\c-codes\C#\algebra-of-logic\algebra-of-logic\bin\Debug\net6.0\algebra-of-logic.pdb
+D:\Programming\c-codes\C#\algebra-of-logic\algebra-of-logic\obj\Debug\net6.0\algebra-of-logic.csproj.AssemblyReference.cache
+D:\Programming\c-codes\C#\algebra-of-logic\algebra-of-logic\obj\Debug\net6.0\algebra-of-logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\c-codes\C#\algebra-of-logic\algebra-of-logic\obj\Debug\net6.0\algebra-of-logic.AssemblyInfoInputs.cache
+D:\Programming\c-codes\C#\algebra-of-logic\algebra-of-logic\obj\Debug\net6.0\algebra-of-logic.AssemblyInfo.cs
+D:\Programming\c-codes\C#\algebra-of-logic\algebra-of-logic\obj\Debug\net6.0\algebra-of-logic.csproj.CoreCompileInputs.cache
+D:\Programming\c-codes\C#\algebra-of-logic\algebra-of-logic\obj\Debug\net6.0\algebra-of-logic.dll
+D:\Programming\c-codes\C#\algebra-of-logic\algebra-of-logic\obj\Debug\net6.0\refint\algebra-of-logic.dll
+D:\Programming\c-codes\C#\algebra-of-logic\algebra-of-logic\obj\Debug\net6.0\algebra-of-logic.pdb
+D:\Programming\c-codes\C#\algebra-of-logic\algebra-of-logic\obj\Debug\net6.0\algebra-of-logic.genruntimeconfig.cache
+D:\Programming\c-codes\C#\algebra-of-logic\algebra-of-logic\obj\Debug\net6.0\ref\algebra-of-logic.dll
