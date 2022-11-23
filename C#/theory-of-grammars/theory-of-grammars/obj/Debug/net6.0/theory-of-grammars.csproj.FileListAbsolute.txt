@@ -1,0 +1,15 @@
+D:\Programming\c-codes\C#\theory-of-grammars\theory-of-grammars\bin\Debug\net6.0\theory-of-grammars.exe
+D:\Programming\c-codes\C#\theory-of-grammars\theory-of-grammars\bin\Debug\net6.0\theory-of-grammars.deps.json
+D:\Programming\c-codes\C#\theory-of-grammars\theory-of-grammars\bin\Debug\net6.0\theory-of-grammars.runtimeconfig.json
+D:\Programming\c-codes\C#\theory-of-grammars\theory-of-grammars\bin\Debug\net6.0\theory-of-grammars.dll
+D:\Programming\c-codes\C#\theory-of-grammars\theory-of-grammars\bin\Debug\net6.0\theory-of-grammars.pdb
+D:\Programming\c-codes\C#\theory-of-grammars\theory-of-grammars\obj\Debug\net6.0\theory-of-grammars.csproj.AssemblyReference.cache
+D:\Programming\c-codes\C#\theory-of-grammars\theory-of-grammars\obj\Debug\net6.0\theory-of-grammars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\c-codes\C#\theory-of-grammars\theory-of-grammars\obj\Debug\net6.0\theory-of-grammars.AssemblyInfoInputs.cache
+D:\Programming\c-codes\C#\theory-of-grammars\theory-of-grammars\obj\Debug\net6.0\theory-of-grammars.AssemblyInfo.cs
+D:\Programming\c-codes\C#\theory-of-grammars\theory-of-grammars\obj\Debug\net6.0\theory-of-grammars.csproj.CoreCompileInputs.cache
+D:\Programming\c-codes\C#\theory-of-grammars\theory-of-grammars\obj\Debug\net6.0\theory-of-grammars.dll
+D:\Programming\c-codes\C#\theory-of-grammars\theory-of-grammars\obj\Debug\net6.0\refint\theory-of-grammars.dll
+D:\Programming\c-codes\C#\theory-of-grammars\theory-of-grammars\obj\Debug\net6.0\theory-of-grammars.pdb
+D:\Programming\c-codes\C#\theory-of-grammars\theory-of-grammars\obj\Debug\net6.0\theory-of-grammars.genruntimeconfig.cache
+D:\Programming\c-codes\C#\theory-of-grammars\theory-of-grammars\obj\Debug\net6.0\ref\theory-of-grammars.dll

@@ -43,20 +43,20 @@ for (int i = 0; i < numDim; i++)
 
 Write(")\n");
 
-if (vector[0] == 0) WriteLine("Функція зберігає константу 0.");
-else WriteLine("Функція не зберігає константу 0.");
+if (vector[0] == 0) WriteLine("The function stores a constant 0.");
+else WriteLine("The function does not store a constant 0.");
 
 for (int i = 0, k = numDim - 1; i < numDim / 2; k--, i++)
     
     if (vector[i] != 0)
     {
-        WriteLine("Функція не є суперечністю.");
+        WriteLine("A function is not a contradiction.");
         issuperech = false;
         break;
     }
 
 if (issuperech)
-    WriteLine("Функція є суперечністю.");
+    WriteLine("A function is a contradiction.");
 
 static int checkLog2Digit(int digit)
 {
