@@ -1,0 +1,5 @@
+﻿  funct.cpp
+D:\Programming\c-codes\C++\overloading\overloading\funct.cpp(146,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  overloading.vcxproj -> D:\Programming\c-codes\C++\overloading\x64\Debug\overloading.exe
