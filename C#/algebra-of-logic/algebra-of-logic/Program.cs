@@ -8,6 +8,8 @@ string substr;
 int[] vector;
 bool issuperech = true;
 
+
+//fixing vector lines
 do
 {
     numDim = 0;
